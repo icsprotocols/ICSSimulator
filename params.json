@@ -1,0 +1,6 @@
+{
+  "name": "Icssimulator",
+  "tagline": "DNP3 TCP&Serial/Master&Slave, MODBUS TCP&Serial/Master&Slave, OPC Client&Server Free Simulator",
+  "body": "# ICSSimulator\r\nDNP3 TCP&amp;Serial/Master&amp;Slave, MODBUS TCP&amp;Serial/Master&amp;Slave, OPC Client&amp;Server Free Simulator.\r\n\r\nhttp://www.icsprotocols.com\r\n\r\nYoutube: https://www.youtube.com/channel/UC_fV2zHiTuA31Au75df4wBA\r\n\r\nCombine both zip files with 7-Zip (http://www.7-zip.org)\r\n\r\nYou will need .NET Framework 4 to run the Simulator.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
